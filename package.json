@@ -4,9 +4,9 @@
   "description": "Trabajo practico Objetos",
   "main": "index.js",
   "scripts": {
-    "iniciar": "tsc tp.ts & node tp.js"
+    "iniciar": "registro.ts & node registro.js"
   },
-  "author": "",
+  "author": "Laura Islas",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^14.0.27",
